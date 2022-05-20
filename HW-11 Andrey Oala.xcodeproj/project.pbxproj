@@ -13,6 +13,7 @@
 		557DD2F3283635D4008890F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557DD2F1283635D4008890F5 /* Main.storyboard */; };
 		557DD2F5283635D4008890F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 557DD2F4283635D4008890F5 /* Assets.xcassets */; };
 		557DD2F8283635D4008890F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 557DD2F6283635D4008890F5 /* LaunchScreen.storyboard */; };
+		557DD300283635E3008890F5 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557DD2FF283635E3008890F5 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		557DD2F4283635D4008890F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		557DD2F7283635D4008890F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		557DD2F9283635D4008890F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		557DD2FF283635E3008890F5 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				557DD2EB283635D4008890F5 /* AppDelegate.swift */,
 				557DD2ED283635D4008890F5 /* SceneDelegate.swift */,
 				557DD2EF283635D4008890F5 /* ViewController.swift */,
+				557DD2FF283635E3008890F5 /* NewViewController.swift */,
 				557DD2F1283635D4008890F5 /* Main.storyboard */,
 				557DD2F4283635D4008890F5 /* Assets.xcassets */,
 				557DD2F6283635D4008890F5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				557DD2F0283635D4008890F5 /* ViewController.swift in Sources */,
 				557DD2EC283635D4008890F5 /* AppDelegate.swift in Sources */,
 				557DD2EE283635D4008890F5 /* SceneDelegate.swift in Sources */,
+				557DD300283635E3008890F5 /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
